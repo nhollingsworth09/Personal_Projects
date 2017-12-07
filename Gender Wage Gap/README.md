@@ -1,6 +1,6 @@
 # Affects of Lying on the Gender Wage Gap
 
-This one came to me while listening to NPR's **TED Radio Hour** on [*Transparency*](https://www.npr.org/programs/ted-radio-hour/567499335/transparency). The guest speaker, David Burkus, who advocates for salary transpareny in the work place, briefly mentions that one factor that contributes to the wage gap comes from the frequency of men lying about their experience versus women who tell the truth. Out of sheer curiousiy, I'd like to see how this holds up statistically.
+This one came to me while listening to NPR's **TED Radio Hour** on [*Transparency*](https://www.npr.org/programs/ted-radio-hour/567499335/transparency). The guest speaker, David Burkus, who advocates for salary transparency in the work place, briefly mentions that one factor that contributes to the wage gap comes from the frequency of men lying about their experience versus women who tell the truth. Out of sheer curiousiy, I'd like to see how this holds up statistically.
 
 With a large enough sample size, this analysis could not only shed light on the effects of lying on the gender wage gap, but also how often someone who embelishes their experience can be offered a position, and what industry sees this the most frequently.
 
