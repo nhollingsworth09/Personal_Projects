@@ -1,3 +1,3 @@
-# Project Ideas
+# Personal Projects
 
-A collection of random projects that I may potentially work on.
+A collection of random projects that I have or may potentially work on.
